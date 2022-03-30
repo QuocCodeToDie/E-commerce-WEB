@@ -5,15 +5,18 @@ Contents
 **Yêu cầu của Đồ án**
 1.	Mô Tả:	
   a.	Quy trình nghiệp vụ	
-    1)	Quy trình cho người mua:	
-    2)  Quy trình cho người bán:	
-    3)	Quy trình giao nhận hàng vận chuyển	
-    4)	Quy trình thanh toán:	
+    - 1)	Quy trình cho người mua:	
+    - 2)  Quy trình cho người bán:	
+    - 3)	Quy trình giao nhận hàng vận chuyển	
+    - 4)	Quy trình thanh toán:	
 
 **Kết quả	**
   1.	Thiết kế dữ liệu quan niệm	
-    a.	Đặc tả hệ thống	
-    b.	Ràng buộc dữ liệu	
+  
+    - a.	Đặc tả hệ thống
+    
+    - b.	Ràng buộc dữ liệu	
+    
   2.	Thiết kế dữ liệu logic	
     a.	Mô hình ER	
     b.	Mô hình quan hệ	
